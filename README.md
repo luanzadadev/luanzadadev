@@ -1,4 +1,4 @@
-### Olá! Eu sou o Luanzadadev
+### Olá! Eu sou o Luan Oliveira :-D
 
 - 🔭 Trabalho com back-end
 - 🌱 Estudando Javascript
